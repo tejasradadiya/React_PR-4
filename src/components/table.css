@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+    margin-top: 2px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+  }
+  
+  tr,
+  td {
+    border: 1px solid #ff8b8b;
+    padding: 10px;
+  }
+  
+  tr {
+    background-color: rgb(206, 206, 206);
+  }
+  
+  button {
+    background-color: #ff1100;
+    font-size: 19px;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin:5px;
+    cursor: pointer;
+  }
+  
